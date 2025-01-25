@@ -1,0 +1,9 @@
+
+.colors-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.colors-container div {
+    width: 200px;
+}
